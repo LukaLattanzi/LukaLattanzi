@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @LukaLattanzi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-LukaLattanzi/LukaLattanzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi, I am Luka Lattanzi</h1>
+<h3 align="center">A Dev from Argentina</h3>
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://aniyuki.com/wp-content/uploads/2023/02/aniyuki-blue-lock-gif-3.gif">
+</div>
