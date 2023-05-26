@@ -1,9 +1,26 @@
+
 <h1 align="center">Hi, I'm Luka Lattanzi</h1>
+
 <div align="center">
+    
 <img hight="300" width="800" src="https://media.tenor.com/T914ACwG75UAAAAd/solid-snake-salute.gif">
+    
 </div>
+
 <br>
-<h2>Work in progress</h2>
+
+<h2>A little more about me...</h2>
+
+```javascript
+const lukaLatt = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "C", "HTML", "CSS"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<div>
+</div>
 <!--
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
     
