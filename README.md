@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Luka Lattanzi</h1>
 <div align="center">
-<img hight="300" width="800" src="https://media.tenor.com/8IxggxikyUgAAAAC/the-legend-of-zelda-tears-of-the-kingdom-the-legend-of-zelda.gif">
+<img hight="300" width="800" src="https://media.tenor.com/T914ACwG75UAAAAd/solid-snake-salute.gif">
 </div>
 <br>
 <h2>Work in progress</h2>
