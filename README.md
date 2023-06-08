@@ -13,6 +13,7 @@
 ```javascript
 const lukaLatt = {
     pronouns: "He" | "Him",
+    age: 19,
     code: ["Javascript", "Python", "C", "HTML", "CSS"]
 };
 ```
