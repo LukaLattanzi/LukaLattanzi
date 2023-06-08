@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Luka Lattanzi</h1>
+<h1 align="center">Kept you waiting, huh?</h1>
 
 <div align="center">
     
-<img hight="300" width="800" src="https://media.tenor.com/T914ACwG75UAAAAd/solid-snake-salute.gif">
+<img width="500" src="https://media.tenor.com/SKLHQ_xwWD0AAAAd/metal-gear-big-boss.gif">
     
 </div>
 
