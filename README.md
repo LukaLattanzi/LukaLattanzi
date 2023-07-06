@@ -10,6 +10,12 @@
 
 <h2>A little more about me...</h2>
 
+<h3>College Career</h3>
+
+<p>I am currently studying systems analyst at the Instituto Politécnico Superior (IPS). Below you can see some of my work.</p>
+
+<!--
+
 ```javascript
 const lukaLatt = {
     pronouns: "He" | "Him",
