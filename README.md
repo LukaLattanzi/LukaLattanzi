@@ -17,6 +17,7 @@
 <h4>First four-month period of the first year:</h4>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LukaLattanzi&repo=Practica-Taller-Programacion-I-IPS-2023)](https://github.com/LukaLattanzi/Practica-Taller-Programacion-I-IPS-2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LukaLattanzi&repo=Trabajo-Final-Taller-Programacion-I-IPS-2023)](https://github.com/LukaLattanzi/Trabajo-Final-Taller-Programacion-I-IPS-2023)
 
 <!--
 
