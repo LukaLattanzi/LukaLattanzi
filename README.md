@@ -14,6 +14,8 @@
 
 <p>I am currently studying systems analyst at the Instituto Politécnico Superior (IPS). Below you can see some of my work.</p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LukaLattanzi&repo=Practica-Taller-Programacion-I-IPS-2023)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 
 ```javascript
