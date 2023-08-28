@@ -14,8 +14,8 @@ const lukaLatt = {
 
 <h3>First four-month period of the first year:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LukaLattanzi&repo=Practica-Taller-Programacion-I-IPS-2023&theme=dark)](https://github.com/LukaLattanzi/Practica-Taller-Programacion-I-IPS-2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LukaLattanzi&repo=Trabajo-Final-Taller-Programacion-I-IPS-2023&theme=dark)](https://github.com/LukaLattanzi/Trabajo-Final-Taller-Programacion-I-IPS-2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LukaLattanzi&repo=Taller-Programacion-I-Practice&theme=dark)](https://github.com/LukaLattanzi/Taller-Programacion-I-Practice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LukaLattanzi&repo=Taller-Programacion-I-Final-Project&theme=dark)](https://github.com/LukaLattanzi/Taller-Programacion-I-Final-Project)
 
 <h2>Most Used Languages</h2>
 
