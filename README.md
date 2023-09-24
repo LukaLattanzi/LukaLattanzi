@@ -15,4 +15,4 @@
 
 <img align="right" src="https://media.tenor.com/OGH7rOXh5YIAAAAi/solid-snake-mgs.gif">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaLattanzii&langs_count=10&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaLattanzi&langs_count=10&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
