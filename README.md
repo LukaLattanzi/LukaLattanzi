@@ -10,7 +10,8 @@
 
 <h3>Second Four Month Period Of The First Year:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LukaLattanzi&repo=Algoritmos-y-Estructuras-de-datos-I-Practice&theme=dark)](https://github.com/LukaLattanzi/Algoritmos-y-Estructuras-de-datos-I-Practice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LukaLattanzi&repo=Taller-Programacion-II&theme=dark)](https://github.com/LukaLattanzi/Taller-Programacion-II)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LukaLattanzi&repo=Algoritmos-Y-Estructuras-De-Datos-I&theme=dark)](https://github.com/LukaLattanzi/Algoritmos-Y-Estructuras-De-Datos-I)
 
 <h2>Most Used Languages</h2>
 
