@@ -1,11 +1,8 @@
-<h2>College Career</h2>
-
-<p>I am currently studying systems analyst at the Instituto Politécnico Superior (IPS). Below you can see some of my work.</p>
+<p>I Am Currently Studying Systems Analyst At The Instituto Politécnico Superior. Below You Can See Some Of My Work.</p>
 
 <h3>First Four Month Period Of The First year:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LukaLattanzi&repo=Taller-Programacion-I-Practice&theme=dark)](https://github.com/LukaLattanzi/Taller-Programacion-I-Practice)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LukaLattanzi&repo=Taller-Programacion-I-Final-Project&theme=dark)](https://github.com/LukaLattanzi/Taller-Programacion-I-Final-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LukaLattanzi&repo=Taller-Programacion-I&theme=dark)](https://github.com/LukaLattanzi/Taller-Programacion-I)
 
 <h3>Second Four Month Period Of The First Year:</h3>
 
