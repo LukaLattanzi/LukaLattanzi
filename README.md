@@ -26,3 +26,5 @@
 
 
 <h2>Top Languages In My Toolbox 🛠️</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaLattanzi&langs_count=10&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
